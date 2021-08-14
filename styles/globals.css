@@ -28,8 +28,8 @@ h1 {
 
 .btn {
   display: inline-block;
-  background: white;
-  color: black;
+  background: black;
+  color: white;
   padding: 10px 20px;
   cursor: pointer;
   border: 0;

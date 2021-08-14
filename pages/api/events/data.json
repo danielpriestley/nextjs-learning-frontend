@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Wild Walk",
+      "slug": "wild-walk-forfar",
+      "location": "Forfar Loch Country Park",
+      "address": "Craig O'Loch Rd, Forfar DD8 1BT",
+      "date": "September 19, 2021",
+      "time": "10:00 AM GMT",
+      "description": "Enjoy a peaceful walk through the beautiful Caledonian Forest, looking out for common mammals and birds of the area such as the Red Squirrel and Osprey",
+      "image": "/images/sample/animal6.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Animals of Scotland",
+      "slug": "animals-of-scotland",
+      "location": "Ben Nevis Visitor Centre",
+      "address": "Visitor Centre, Glen Nevis, Fort William PH33 6PF",
+      "date": "October 1, 2021",
+      "time": "11:00 AM GMT",
+      "description": "Enjoy a peaceful walk through the beautiful Caledonian Forest, looking out for common mammals and birds of the area such as the Red Squirrel and Osprey",
+      "image": "/images/sample/animal2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Otter Watch",
+      "slug": "otter-watch",
+      "location": "Clan Cameron Museum",
+      "address": "Achnacarry, Spean Bridge PH34 4EJ",
+      "date": "September 25, 2021",
+      "time": "10:00 AM GMT",
+      "description": "Enjoy a peaceful walk through the beautiful Caledonian Forest, looking out for common mammals and birds of the area such as the Red Squirrel and Osprey",
+      "image": "/images/sample/animal4.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Braemar Bird Watch",
+      "slug": "braemar-bird-watch",
+      "location": "Braemar Duck Pond",
+      "address": "1 Chapel Brae, Braemar, Ballater AB35 5WP",
+      "date": "August 24, 2021",
+      "time": "2:00 PM GMT",
+      "description": "Enjoy a peaceful walk through the beautiful Caledonian Forest, looking out for common mammals and birds of the area such as the Red Squirrel and Osprey",
+      "image": "/images/sample/animal3.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Hill March Stirling",
+      "slug": "hill-march-stirling",
+      "location": "Dunmore Fort",
+      "address": "A821, Callander FK17 8HD",
+      "date": "September 24, 2021",
+      "time": "12:00 PM GMT",
+      "description": "Enjoy a peaceful walk through the beautiful Caledonian Forest, looking out for common mammals and birds of the area such as the Red Squirrel and Osprey",
+      "image": "/images/sample/animal6.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Hill Strolling Forres",
+      "slug": "hill-strolling-forres",
+      "location": "Edinkillie Church",
+      "address": "Dunphail, Forres IV36 2QH",
+      "date": "August 27, 2021",
+      "time": "11:00 AM GMT",
+      "description": "Enjoy a peaceful walk through the beautiful Caledonian Forest, looking out for common mammals and birds of the area such as the Red Squirrel and Osprey",
+      "image": "/images/sample/animal1.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Hill Strolling Inverness",
+      "slug": "hill-strolling-inverness",
+      "location": "Inverness Church",
+      "address": "Dunphail, Forres IV36 2QH",
+      "date": "August 27, 2021",
+      "time": "11:00 AM GMT",
+      "description": "Enjoy a peaceful walk through the beautiful Caledonian Forest, looking out for common mammals and birds of the area such as the Red Squirrel and Osprey",
+      "image": null
+    }
+  ]
+}
