@@ -9,7 +9,7 @@ import styles from "@/styles/Form.module.css";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import moment from "moment";
-import Modal from "@/components/modal";
+import Modal from "@/components/Modal";
 import ImageUpload from "@/components/ImageUpload";
 import { parseCookies } from "@/helpers/index";
 
